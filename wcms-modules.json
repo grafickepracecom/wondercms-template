@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "wzsd": {
+            "name": "WZSD",
+            "repo": "https://github.com/grafickepracecom/wondercms-theme/tree/master",
+            "zip": "https://github.com/grafickepracecom/wondercms-theme/archive/master.zip",
+            "summary": "WZSD theme",
+            "version": "1.0.0",
+            "image": "https://raw.githubusercontent.com/grafickepracecom/wondercms-theme/main/preview.jpg"
+        }
+    }
+}
